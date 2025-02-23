@@ -1,0 +1,20 @@
+# Include: custom\VOLUME_UP.txt
+
+
+# ================================================================================ 🎙️ MIC
+Device: Mic (Lenovo 80WK) Realtek High Definition Audio {3f3e5f9a-ac63-4a3a-b80a-800cd540b9e0}
+Include: custom\3.5_PHILIPS_BLACK_MIC.txt
+# ================================================================================
+
+
+# ================================================================================ 🔊 SYSTEM (or 3.5) 💻🎧
+Device: Speakers (Lenovo 80WK) Realtek High Definition Audio {b9388b90-412d-46ea-8659-27d116aad598}
+Include: custom\SYSTEM_LENOVO_80WK.txt
+# Include: custom\3.5_BASEUS_WHITE.txt
+# ================================================================================
+
+
+# ================================================================================ 🔊 DEVICES (BT)
+Device: Soundcore Life Note Soundcore Life Note {0b2ac00f-f194-4216-8708-c3e39b603e97}
+Include: custom\BT_SOUNDCORE_LIFE_NOTE.txt
+Include: custom\BT_SOUNDCORE_LIFE_NOTE_BASS.txt

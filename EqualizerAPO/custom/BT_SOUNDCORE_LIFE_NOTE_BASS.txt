@@ -1,0 +1,2 @@
+Preamp: -3 dB
+Filter: ON PK Fc 70 Hz Gain 3 dB Q 0.3333
