@@ -15,6 +15,6 @@ Include: custom\SYSTEM_LENOVO_80WK.txt
 
 
 # ================================================================================ 🔊 DEVICES (BT)
-Device: Soundcore Life Note Soundcore Life Note {0b2ac00f-f194-4216-8708-c3e39b603e97}
+Device: TWS (Soundcore Life Note) Soundcore Life Note {974053e5-009d-4fea-9834-8af69034638c}
 Include: custom\BT_SOUNDCORE_LIFE_NOTE.txt
 Include: custom\BT_SOUNDCORE_LIFE_NOTE_BASS.txt
